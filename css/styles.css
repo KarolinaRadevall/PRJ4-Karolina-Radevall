@@ -19,6 +19,15 @@ body {
 	color: #D5006D;
 }
 
+.my-portfolio {
+  font-family: "Sigmar",  cursive;
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+  text-align: center;
+  margin: 20px 0;
+}
+
 .resume-main {
 	background-color: #fffefc;
 }
@@ -52,6 +61,4 @@ body {
 	flex-basis: 1.4em;
 }
 
-.custom-portolio {
-    color: #B623D8; 
-}
+
